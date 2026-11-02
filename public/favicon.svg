@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hoang Ford Auto">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1178cf"/>
+      <stop offset="1" stop-color="#061d35"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M18 14h30v8H27v7h18v8H27v13h-9z" fill="#fff"/>
+  <path d="M43 14h4v4h-4z" fill="#79c4ff"/>
+</svg>
